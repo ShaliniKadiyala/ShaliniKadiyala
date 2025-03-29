@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"><b>📈CRM Analytics:</b> Designed and developed an interactive CRM dashboard in Power BI and Excel, incorporating data validation through Excel and MySQL. Analyzed key metrics, including opportunity conversion rates, lead performance, revenue trends, and segmentation by industry and source, enabling improved sales forecasting and data-driven decision-making. </p> 
+<p align="left"><b>📈CRM Analytics:</b> Created and implemented an interactive CRM dashboard using Power BI and Excel, integrating data validation through Excel and MySQL. Conducted in-depth analysis of key metrics such as opportunity conversion rates, lead performance, revenue trends, and industry/source segmentation. Provided valuable insights to enhance sales forecasting and support data-driven decision-making. </p> 
 <p align="left"><b>📊 Adventure Works Analytics:</b> Conducted a data-driven sales analysis for Adventure works bicycles. Extracted, transformed, and visualized
 data to track KPIs. Implemented DAX formulas and data modeling to optimize dashboard functionality. Identified sales trends, customer demographics and product performance to optimize business strategies.
 
